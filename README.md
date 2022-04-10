@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @EvgeniiRabchuk
 - 👀 I’m interested in Java microservices and architectures
-- 🌱 I’m currently learning Spring boot and Jackarta
+- 🌱 I’m currently learning Spring boot, Java Reactive, Kotlin, Scala, 
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me rabchuk@gmail.com
 
